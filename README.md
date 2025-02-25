@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fawwaz
 - 🌱 I’m currently learning Java, Processing, Python and JavaScript
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me oganlafawwaz09@gmail.com.
+- 📫 How to reach me oganlafawwaz099@gmail.com.
 - ⚡ Fun fact: Messi is the GOAT. Visca Barca!
 
 <!---
